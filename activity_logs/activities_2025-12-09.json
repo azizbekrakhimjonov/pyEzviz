@@ -1,0 +1,2713 @@
+[
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 14:49:12",
+    "window_title": "Mijoz paneli | aHOST - Google Chrome",
+    "count": 1
+  },
+  {
+    "type": "CLIENT_INTERACTION",
+    "timestamp": "2025-12-09 14:49:12",
+    "window_title": "Mijoz paneli | aHOST - Google Chrome",
+    "keyword": "mijoz"
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 15:11:38",
+    "window_title": "Mijoz paneli | aHOST - Google Chrome",
+    "count": 1
+  },
+  {
+    "type": "CLIENT_INTERACTION",
+    "timestamp": "2025-12-09 15:11:38",
+    "window_title": "Mijoz paneli | aHOST - Google Chrome",
+    "keyword": "mijoz"
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 15:12:00",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-11-38.mp4 - Google Chrome",
+    "count": 2
+  },
+  {
+    "type": "CLIENT_INTERACTION",
+    "timestamp": "2025-12-09 15:12:00",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-11-38.mp4 - Google Chrome",
+    "keyword": "client"
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 15:12:08",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-11-38.mp4 - Google Chrome",
+    "count": 3
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 15:21:58",
+    "window_title": "Mijoz paneli | aHOST - Google Chrome",
+    "count": 1
+  },
+  {
+    "type": "CLIENT_INTERACTION",
+    "timestamp": "2025-12-09 15:21:58",
+    "window_title": "Mijoz paneli | aHOST - Google Chrome",
+    "keyword": "mijoz"
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 15:23:04",
+    "window_title": "127.0.0.1:5000/videos/CRM_2025-12-09_15-21-58.mp4 - Google Chrome",
+    "count": 2
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 15:23:35",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "count": 3
+  },
+  {
+    "type": "CLIENT_INTERACTION",
+    "timestamp": "2025-12-09 15:23:35",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "keyword": "client"
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 15:23:41",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "count": 4
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 15:36:51",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "count": 1
+  },
+  {
+    "type": "CLIENT_INTERACTION",
+    "timestamp": "2025-12-09 15:36:52",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "keyword": "client"
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:36:52",
+    "site_name": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:36:54",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:00",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:06",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 15:37:08",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "count": 2
+  },
+  {
+    "type": "CLIENT_INTERACTION",
+    "timestamp": "2025-12-09 15:37:08",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "keyword": "client"
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:08",
+    "site_name": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:17",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 5
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:23",
+    "site_name": "Savat | aHOST",
+    "window_title": "Savat | aHOST - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:25",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 6
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:29",
+    "site_name": "Savat | aHOST",
+    "window_title": "Savat | aHOST - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:35",
+    "site_name": "Savat | aHOST",
+    "window_title": "Savat | aHOST - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:37",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 7
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:43",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 8
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:49",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 9
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:37:59",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 10
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:38:05",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 11
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:38:07",
+    "site_name": "Savat | aHOST",
+    "window_title": "Savat | aHOST - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:38:09",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 12
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:38:15",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 13
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:38:21",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 14
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:38:27",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 15
+  },
+  {
+    "type": "PROCESS_ACTIVITY",
+    "timestamp": "2025-12-09 15:52:00",
+    "process_name": "chrome.exe",
+    "window_title": "Task Switching",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:52:04",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:52:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:52:17",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:52:23",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:52:29",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 5
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:59:29",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 6
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:59:36",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 7
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:59:42",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 8
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:59:45",
+    "site_name": "Ягона Миллий Мехнат Тизими",
+    "window_title": "Ягона Миллий Мехнат Тизими - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:59:47",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 9
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:59:54",
+    "site_name": "Mehnat daftarchasidan ko'chirma",
+    "window_title": "Mehnat daftarchasidan ko'chirma - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 15:59:56",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 10
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:00:00",
+    "site_name": "Ommabop xizmatlar",
+    "window_title": "Ommabop xizmatlar - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:00:03",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 11
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 16:00:05",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "count": 1
+  },
+  {
+    "type": "CLIENT_INTERACTION",
+    "timestamp": "2025-12-09 16:00:06",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "keyword": "client"
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:00:06",
+    "site_name": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4",
+    "window_title": "127.0.0.1:5000/videos/CLIENT_2025-12-09_15-12-00.mp4 - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:00:08",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 12
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:01:32",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 13
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:08:21",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 14
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:08:28",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 15
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:08:34",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 16
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:08:41",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 17
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:08:48",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 18
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:08:54",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 19
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:09:01",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 20
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:09:07",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 21
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:09:14",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 22
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:09:21",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 23
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:09:27",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 24
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:09:34",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 25
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:09:41",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 26
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:09:47",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 27
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:09:54",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 28
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:10:00",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 29
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:10:07",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 30
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:10:14",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 31
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:10:21",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 32
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:10:27",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 33
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:10:34",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 34
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:10:41",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 35
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:10:47",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 36
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:10:54",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 37
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:11:00",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 38
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:11:07",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 39
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:11:14",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 40
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:11:20",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 41
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:11:27",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 42
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:11:34",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 43
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:11:40",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 44
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:11:47",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 45
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:11:53",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 46
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:12:00",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 47
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:12:07",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 48
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:12:13",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 49
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:12:20",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 50
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:12:27",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 51
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:12:33",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 52
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:12:40",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 53
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:12:46",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 54
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:12:53",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 55
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:13:00",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 56
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:13:06",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 57
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:13:13",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 58
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:13:20",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 59
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:13:26",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 60
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:13:33",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 61
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:13:40",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 62
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:13:46",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 63
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:13:53",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 64
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:00",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 65
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:06",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 66
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:13",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 67
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:19",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 68
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:26",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 69
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:33",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 70
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:39",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 71
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:46",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 72
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:53",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 73
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:14:59",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 74
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:15:06",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 75
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:15:13",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 76
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:15:19",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 77
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:15:26",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 78
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:15:32",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 79
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:15:39",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 80
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:15:46",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 81
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:15:52",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 82
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:15:59",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 83
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:16:05",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 84
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:16:12",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 85
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:16:19",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 86
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:16:25",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 87
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:16:32",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 88
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:16:39",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 89
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:16:45",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 90
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:16:52",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 91
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:16:59",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 92
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:17:05",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 93
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:17:12",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 94
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:17:18",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 95
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:17:25",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 96
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:17:32",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 97
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:17:38",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 98
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:17:45",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 99
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:17:52",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 100
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:17:58",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 101
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:18:05",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 102
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:18:12",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 103
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:18:18",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 104
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:18:25",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 105
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:18:31",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 106
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:18:38",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 107
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:18:45",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 108
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:18:51",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 109
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:18:58",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 110
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:19:05",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 111
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:19:11",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 112
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:19:18",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 113
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:19:25",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 114
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:19:31",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 115
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:19:38",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 116
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:19:45",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 117
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:19:51",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 118
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:19:58",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 119
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:20:04",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 120
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:20:11",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 121
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:20:18",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 122
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:20:24",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 123
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:20:29",
+    "site_name": "Savat | aHOST",
+    "window_title": "Savat | aHOST - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:20:31",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 124
+  },
+  {
+    "type": "PROCESS_ACTIVITY",
+    "timestamp": "2025-12-09 16:21:03",
+    "process_name": "chrome.exe",
+    "window_title": "WEBSITE_2025-12-09_15-38-27.mp4 - pyEzviz - Cursor [Administrator]",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:21:52",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:21:58",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:22:01",
+    "site_name": "Savat | aHOST",
+    "window_title": "Savat | aHOST - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:22:06",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:22:10",
+    "site_name": "Ягона Миллий Мехнат Тизими",
+    "window_title": "Ягона Миллий Мехнат Тизими - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:22:17",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:22:24",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 5
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:22:40",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 6
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:23:45",
+    "site_name": "Mening domenlarim | aHOST",
+    "window_title": "Mening domenlarim | aHOST - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "PROCESS_ACTIVITY",
+    "timestamp": "2025-12-09 16:23:47",
+    "process_name": "Noma'lum",
+    "window_title": "",
+    "process_path": "",
+    "count": 1
+  },
+  {
+    "type": "PROCESS_ACTIVITY",
+    "timestamp": "2025-12-09 16:23:49",
+    "process_name": "chrome.exe",
+    "window_title": "Mening domenlarim | aHOST - Google Chrome",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:23:52",
+    "site_name": "Mening domenlarim | aHOST",
+    "window_title": "Mening domenlarim | aHOST - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:23:56",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 7
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:24:03",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 8
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:24:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 9
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:24:16",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 10
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:24:39",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 11
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:25:02",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 12
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:25:12",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 13
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:25:19",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 14
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:25:25",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 15
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:25:50",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 16
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:25:57",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 17
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:26:03",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 18
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:26:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 19
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:26:17",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 20
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:26:23",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 21
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:26:30",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 22
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:26:37",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 23
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:26:43",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 24
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:26:50",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 25
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:26:57",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 26
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:27:03",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 27
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:27:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 28
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:27:16",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 29
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:27:23",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 30
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:27:30",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 31
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:27:36",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 32
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:27:43",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 33
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:27:50",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 34
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:27:56",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 35
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:28:03",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 36
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:28:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 37
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:28:16",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 38
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:28:23",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 39
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:28:30",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 40
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:28:36",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 41
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:28:43",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 42
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:28:50",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 43
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:28:56",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 44
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:29:03",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 45
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:29:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 46
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:29:16",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 47
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:29:23",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 48
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:29:30",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 49
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:29:36",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 50
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:29:43",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 51
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:29:50",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 52
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:29:56",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 53
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:30:03",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 54
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:30:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 55
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:30:16",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 56
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:30:23",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 57
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:30:30",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 58
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:30:37",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 59
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:30:43",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 60
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:30:50",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 61
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:30:57",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 62
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:31:03",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 63
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:31:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 64
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:31:17",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 65
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:31:24",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 66
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:31:30",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 67
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:31:37",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 68
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:31:44",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 69
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:31:50",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 70
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:31:57",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 71
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:32:04",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 72
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:32:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 73
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:32:17",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 74
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:32:24",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 75
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:32:31",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 76
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:32:37",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 77
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:32:44",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 78
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:32:51",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 79
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:32:57",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 80
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:33:04",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 81
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:33:11",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 82
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:33:18",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 83
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:33:24",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 84
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:33:31",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 85
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:33:37",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 86
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:33:44",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 87
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:33:51",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 88
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:33:57",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 89
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:34:04",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 90
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 16:34:33",
+    "site_name": "Savat | aHOST",
+    "window_title": "Savat | aHOST - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "PROCESS_ACTIVITY",
+    "timestamp": "2025-12-09 18:27:38",
+    "process_name": "chrome.exe",
+    "window_title": "activities_2025-12-09.json - pyEzviz - Cursor [Administrator]",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "count": 1
+  },
+  {
+    "type": "PROCESS_ACTIVITY",
+    "timestamp": "2025-12-09 18:29:51",
+    "process_name": "chrome.exe",
+    "window_title": "activities_2025-12-09.json - pyEzviz - Cursor [Administrator]",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:30:22",
+    "site_name": "New Tab",
+    "window_title": "New Tab - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:30:24",
+    "site_name": "Inbox | Mail | SOGo Groupware",
+    "window_title": "Inbox | Mail | SOGo Groupware - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:30:27",
+    "site_name": "Sent | Mail | SOGo Groupware",
+    "window_title": "Sent | Mail | SOGo Groupware - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:30:33",
+    "site_name": "Trash | Mail | SOGo Groupware",
+    "window_title": "Trash | Mail | SOGo Groupware - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:30:35",
+    "site_name": "Junk | Mail | SOGo Groupware",
+    "window_title": "Junk | Mail | SOGo Groupware - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:30:37",
+    "site_name": "Archive | Mail | SOGo Groupware",
+    "window_title": "Archive | Mail | SOGo Groupware - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:30:42",
+    "site_name": "Inbox | Mail | SOGo Groupware",
+    "window_title": "Inbox | Mail | SOGo Groupware - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:05",
+    "site_name": "New Tab",
+    "window_title": "New Tab - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:07",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:14",
+    "site_name": "Inbox | Mail | SOGo Groupware",
+    "window_title": "Inbox | Mail | SOGo Groupware - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:16",
+    "site_name": "Drafts | Mail | SOGo Groupware",
+    "window_title": "Drafts | Mail | SOGo Groupware - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:18",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:24",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:31",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:35",
+    "site_name": "Drafts | Mail | SOGo Groupware",
+    "window_title": "Drafts | Mail | SOGo Groupware - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:39",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 5
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:44",
+    "site_name": "New Tab",
+    "window_title": "New Tab - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:46",
+    "site_name": "Хостинг в TAS-IX и домены в Узбекистане в Ташкенте",
+    "window_title": "Хостинг в TAS-IX и домены в Узбекистане в Ташкенте - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:52",
+    "site_name": "Хостинг в TAS-IX и домены в Узбекистане в Ташкенте",
+    "window_title": "Хостинг в TAS-IX и домены в Узбекистане в Ташкенте - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "CRM_ACCESS",
+    "timestamp": "2025-12-09 18:31:58",
+    "window_title": "Mijoz paneli | aHOST - Google Chrome",
+    "count": 1
+  },
+  {
+    "type": "CLIENT_INTERACTION",
+    "timestamp": "2025-12-09 18:31:58",
+    "window_title": "Mijoz paneli | aHOST - Google Chrome",
+    "keyword": "mijoz",
+    "detection_method": "title"
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:31:58",
+    "site_name": "Mijoz paneli | aHOST",
+    "window_title": "Mijoz paneli | aHOST - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:00",
+    "site_name": "Mening domenlarim | aHOST",
+    "window_title": "Mening domenlarim | aHOST - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:06",
+    "site_name": "Uzaytirish | aHOST",
+    "window_title": "Uzaytirish | aHOST - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:12",
+    "site_name": "Uzaytirish | aHOST",
+    "window_title": "Uzaytirish | aHOST - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:19",
+    "site_name": "Uzaytirish | aHOST",
+    "window_title": "Uzaytirish | aHOST - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:21",
+    "site_name": "Мои услуги | aHOST",
+    "window_title": "Мои услуги | aHOST - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:27",
+    "site_name": "Мои услуги | aHOST",
+    "window_title": "Мои услуги | aHOST - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:31",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 6
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:38",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 7
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:44",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 8
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:52",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 9
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:32:59",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 10
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:33:05",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 11
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:33:11",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 12
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:33:17",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 13
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:33:51",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 14
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:33:58",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 15
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:34:04",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 16
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:34:11",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 17
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:34:17",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 18
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:34:24",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 19
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:34:31",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 20
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:34:37",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 21
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:34:44",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 22
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:34:50",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 23
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:34:57",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 24
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:35:04",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 25
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:35:10",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 26
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:35:17",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 27
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:35:23",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 28
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:35:30",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 29
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:35:37",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 30
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:35:43",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 31
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:35:50",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 32
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:35:56",
+    "site_name": "Ishchi Faollik Monitoring Dashboard",
+    "window_title": "Ishchi Faollik Monitoring Dashboard - Google Chrome",
+    "visit_count": 33
+  },
+  {
+    "type": "PROCESS_ACTIVITY",
+    "timestamp": "2025-12-09 18:40:25",
+    "process_name": "Noma'lum",
+    "window_title": "",
+    "process_path": "",
+    "count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:40:27",
+    "site_name": "New Tab",
+    "window_title": "New Tab - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "PROCESS_ACTIVITY",
+    "timestamp": "2025-12-09 18:40:28",
+    "process_name": "chrome.exe",
+    "window_title": "New Tab - Google Chrome",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:40:30",
+    "site_name": "YouTube",
+    "window_title": "YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:40:32",
+    "site_name": "(8) YouTube",
+    "window_title": "(8) YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:40:38",
+    "site_name": "(8) YouTube",
+    "window_title": "(8) YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:40:40",
+    "site_name": "YouTube",
+    "window_title": "YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:40:45",
+    "site_name": "(8) YouTube",
+    "window_title": "(8) YouTube - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:40:51",
+    "site_name": "(8) YouTube",
+    "window_title": "(8) YouTube - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:40:54",
+    "site_name": "(8) PSYCHO TWIN TURBO SUPERCHARGED AUDI #shorts #subscribe #crazy #youtubeshorts",
+    "window_title": "(8) PSYCHO TWIN TURBO SUPERCHARGED AUDI #shorts #subscribe #crazy #youtubeshorts - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:40:58",
+    "site_name": "(8) RAPPER MAXO KAREEM LOL",
+    "window_title": "(8) RAPPER MAXO KAREEM LOL - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:01",
+    "site_name": "(8) 💀‼️#cars #bmw #mercedes #caredit #cartok #gamtng #veluxedits",
+    "window_title": "(8) 💀‼️#cars #bmw #mercedes #caredit #cartok #gamtng #veluxedits - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:03",
+    "site_name": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY",
+    "window_title": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:09",
+    "site_name": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY",
+    "window_title": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:16",
+    "site_name": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY",
+    "window_title": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY - YouTube - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:22",
+    "site_name": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY",
+    "window_title": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY - YouTube - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:29",
+    "site_name": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY",
+    "window_title": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY - YouTube - Google Chrome",
+    "visit_count": 5
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:35",
+    "site_name": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY",
+    "window_title": "(8) Stunning Epoxy River Stone Floor with Suspended Bed #home #renovation #DIY - YouTube - Google Chrome",
+    "visit_count": 6
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:38",
+    "site_name": "(8) 💀‼️#cars #bmw #mercedes #caredit #cartok #gamtng #veluxedits",
+    "window_title": "(8) 💀‼️#cars #bmw #mercedes #caredit #cartok #gamtng #veluxedits - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:42",
+    "site_name": "(8) Many controversies about greasing the Blade, have you ever done that?",
+    "window_title": "(8) Many controversies about greasing the Blade, have you ever done that? - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:48",
+    "site_name": "(8) Many controversies about greasing the Blade, have you ever done that?",
+    "window_title": "(8) Many controversies about greasing the Blade, have you ever done that? - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:51",
+    "site_name": "(8) He Revved a BMW S1000RR From Inside a Porsche!",
+    "window_title": "(8) He Revved a BMW S1000RR From Inside a Porsche! - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:41:57",
+    "site_name": "(8) Why Not Easy Removing? #auto #automobile #youtubeshorts #mechanic #mechaniclife",
+    "window_title": "(8) Why Not Easy Removing? #auto #automobile #youtubeshorts #mechanic #mechaniclife - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:03",
+    "site_name": "(8) Why Not Easy Removing? #auto #automobile #youtubeshorts #mechanic #mechaniclife",
+    "window_title": "(8) Why Not Easy Removing? #auto #automobile #youtubeshorts #mechanic #mechaniclife - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:05",
+    "site_name": "(8) dezembro pode vir, ja estamos pronto!",
+    "window_title": "(8) dezembro pode vir, ja estamos pronto! - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:12",
+    "site_name": "(8) dezembro pode vir, ja estamos pronto!",
+    "window_title": "(8) dezembro pode vir, ja estamos pronto! - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:19",
+    "site_name": "(8) dezembro pode vir, ja estamos pronto!",
+    "window_title": "(8) dezembro pode vir, ja estamos pronto! - YouTube - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:25",
+    "site_name": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage",
+    "window_title": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:32",
+    "site_name": "(8) [Moonknight]",
+    "window_title": "(8) [Moonknight] - A man without love - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:36",
+    "site_name": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage",
+    "window_title": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:42",
+    "site_name": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage",
+    "window_title": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage - YouTube - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:49",
+    "site_name": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage",
+    "window_title": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage - YouTube - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:54",
+    "site_name": "(8) [Moonknight]",
+    "window_title": "(8) [Moonknight] - A man without love - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:42:56",
+    "site_name": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage",
+    "window_title": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage - YouTube - Google Chrome",
+    "visit_count": 5
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:02",
+    "site_name": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage",
+    "window_title": "(8) 30 Metre 1 sq mm Wire Short Circuit #experiment #science #highvoltage - YouTube - Google Chrome",
+    "visit_count": 6
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:04",
+    "site_name": "(8) I Did NOT Expect This to Happen on Live…",
+    "window_title": "(8) I Did NOT Expect This to Happen on Live… - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:06",
+    "site_name": "(8) आर्मेचर द्वारा धागा खींचा 🏮 🏮 और 4 मीनी जनरेटर घुमाकर ड्रोन और बल्ब जलाआ • Dc motor New project",
+    "window_title": "(8) आर्मेचर द्वारा धागा खींचा 🏮 🏮 और 4 मीनी जनरेटर घुमाकर ड्रोन और बल्ब जलाआ • Dc motor New project - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:13",
+    "site_name": "(8) Ice fishing ￼",
+    "window_title": "(8) Ice fishing ￼ - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:19",
+    "site_name": "(8) Ice fishing ￼",
+    "window_title": "(8) Ice fishing ￼ - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:23",
+    "site_name": "(8) Kereta Api Cepat Tabrak Antrian Persilangan Turntable 5 Kereta #railway #railtrack #train #railroad",
+    "window_title": "(8) Kereta Api Cepat Tabrak Antrian Persilangan Turntable 5 Kereta #railway #railtrack #train #railroad - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:30",
+    "site_name": "(8) Minecraft underground house #minecraft #shorts #gaming",
+    "window_title": "(8) Minecraft underground house #minecraft #shorts #gaming - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:37",
+    "site_name": "(8) Minecraft underground house #minecraft #shorts #gaming",
+    "window_title": "(8) Minecraft underground house #minecraft #shorts #gaming - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:43",
+    "site_name": "(8) Minecraft underground house #minecraft #shorts #gaming",
+    "window_title": "(8) Minecraft underground house #minecraft #shorts #gaming - YouTube - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:50",
+    "site_name": "(8) Minecraft underground house #minecraft #shorts #gaming",
+    "window_title": "(8) Minecraft underground house #minecraft #shorts #gaming - YouTube - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:56",
+    "site_name": "(8) Minecraft underground house #minecraft #shorts #gaming",
+    "window_title": "(8) Minecraft underground house #minecraft #shorts #gaming - YouTube - Google Chrome",
+    "visit_count": 5
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:43:59",
+    "site_name": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies!",
+    "window_title": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies! - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:44:06",
+    "site_name": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies!",
+    "window_title": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies! - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:44:12",
+    "site_name": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies!",
+    "window_title": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies! - YouTube - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:44:18",
+    "site_name": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies!",
+    "window_title": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies! - YouTube - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:44:25",
+    "site_name": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies!",
+    "window_title": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies! - YouTube - Google Chrome",
+    "visit_count": 5
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:44:31",
+    "site_name": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies!",
+    "window_title": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies! - YouTube - Google Chrome",
+    "visit_count": 6
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:44:38",
+    "site_name": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies!",
+    "window_title": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies! - YouTube - Google Chrome",
+    "visit_count": 7
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:44:45",
+    "site_name": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies!",
+    "window_title": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies! - YouTube - Google Chrome",
+    "visit_count": 8
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:44:51",
+    "site_name": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies!",
+    "window_title": "(8) Unveiling the Secrets Behind the Most Amazing Christmas Candies! - YouTube - Google Chrome",
+    "visit_count": 9
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:44:58",
+    "site_name": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2",
+    "window_title": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2 - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:45:04",
+    "site_name": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2",
+    "window_title": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2 - YouTube - Google Chrome",
+    "visit_count": 2
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:45:11",
+    "site_name": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2",
+    "window_title": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2 - YouTube - Google Chrome",
+    "visit_count": 3
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:45:17",
+    "site_name": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2",
+    "window_title": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2 - YouTube - Google Chrome",
+    "visit_count": 4
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:45:24",
+    "site_name": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2",
+    "window_title": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2 - YouTube - Google Chrome",
+    "visit_count": 5
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:45:30",
+    "site_name": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2",
+    "window_title": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2 - YouTube - Google Chrome",
+    "visit_count": 6
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:45:37",
+    "site_name": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2",
+    "window_title": "(8) Pov: Staying NOT DETECTED in CS2... #shorts #cs2 - YouTube - Google Chrome",
+    "visit_count": 7
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:45:39",
+    "site_name": "(8) Amazing idea of making table frame by expert welder #welding #welder",
+    "window_title": "(8) Amazing idea of making table frame by expert welder #welding #welder - YouTube - Google Chrome",
+    "visit_count": 1
+  },
+  {
+    "type": "WEBSITE_VISIT",
+    "timestamp": "2025-12-09 18:46:04",
+    "site_name": "(8) Amazing idea of making table frame by expert welder #welding #welder",
+    "window_title": "(8) Amazing idea of making table frame by expert welder #welding #welder - YouTube - Google Chrome",
+    "visit_count": 2
+  }
+]
